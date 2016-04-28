@@ -54,3 +54,29 @@ import (
 // 	name, power := "Goku", 1000
 // 	fmt.Printf("default power is %d\n", power)
 // }
+
+//functions can return more than one value
+
+// func log(message string) {
+// 	// returns no value
+// }
+// func add(a int, b int) int {
+// 	// returns one value
+// }
+// returning two variables
+// value, exists := power("goku")
+// func power(name string) (int, bool){
+// 	if exists == false{
+// 	// returns two values
+// 	}
+// }
+
+// returning one variables we just replace value with underscore _
+// _, exists := power("goku")
+// func power(name string) (int, bool){
+// 	if exists == false{
+// 	// returns two values
+// 	}
+// }
+
+// STRUCTURES
